@@ -1,0 +1,2 @@
+C:\Users\Sebastian\OneDrive\AGH\FIZYKA TECHNICZNA\Projekty\labview\Rudyk2.vi (Rudyk2.vi)
+    - The VI expected to be at "C:\Users\Sebastian\OneDrive\AGH\FIZYKA TECHNICZNA\Projekty\labview\Untitled 3 (SubVI).vi" was loaded from "C:\Users\Sebastian\OneDrive\AGH\FIZYKA TECHNICZNA\Projekty\labview\Rudyk1.vi".
